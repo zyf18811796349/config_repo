@@ -40,3 +40,4 @@ logging:
 druid:
    loginUsername: admin
    loginPassword: admin123456
+aa: 123
